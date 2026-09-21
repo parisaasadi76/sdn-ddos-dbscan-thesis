@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this implementation, please cite the thesis and the InSDN dataset paper.
+type: thesis
+title: DDoS Detection in Software-Defined Networks Using DBSCAN Clustering
+authors:
+  - family-names: Asadi
+    given-names: Parisa
+version: 0.1.0
+keywords:
+  - Software-Defined Networking
+  - DDoS detection
+  - DBSCAN
+  - anomaly detection
+  - OpenFlow
+references:
+  - type: article
+    title: InSDN A Novel SDN Intrusion Dataset
+    authors:
+      - family-names: Elsayed
+        given-names: Mahmoud Said
+      - family-names: Le-Khac
+        given-names: Nhien-An
+      - family-names: Jurcut
+        given-names: Anca Delia
+    journal: IEEE Access
+    volume: 8
+    year: 2020
+    doi: 10.1109/ACCESS.2020.3022633
+

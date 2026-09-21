@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*~
+~$*
+*.swp
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Raw and intermediate data
+data/*
+!data/README.md
+*.pcap
+*.pcapng
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+
+# Local experiment outputs and logs
+logs/
+tmp/
+temp/
+*.log
+*.bak
+*.backup
+
+# Office temporary and backup files
+*.docx.bak
+*.pptx.bak
+*.xlsx.bak
+

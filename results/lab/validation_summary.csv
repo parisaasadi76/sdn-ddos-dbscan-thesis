@@ -1,0 +1,45 @@
+repeat_id,check,status,detail
+2,calibration_normal_02.csv: at least 20 ICMP rows,PASS,icmp_rows=110
+2,calibration_normal_02.csv: finite features,PASS,all finite
+2,calibration_normal_02.csv: non-negative deltas,PASS,invalid_or_negative=0
+2,test_normal_02.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+2,test_normal_02.csv: finite features,PASS,all finite
+2,test_normal_02.csv: non-negative deltas,PASS,invalid_or_negative=0
+2,test_high_rate_icmp_02.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+2,test_high_rate_icmp_02.csv: finite features,PASS,all finite
+2,test_high_rate_icmp_02.csv: non-negative deltas,PASS,invalid_or_negative=0
+2,manifest has three completed traffic runs,PASS,rows=3
+2,collector logs contain no errors,PASS,"logs=3, error_logs=0"
+3,calibration_normal_03.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+3,calibration_normal_03.csv: finite features,PASS,all finite
+3,calibration_normal_03.csv: non-negative deltas,PASS,invalid_or_negative=0
+3,test_normal_03.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+3,test_normal_03.csv: finite features,PASS,all finite
+3,test_normal_03.csv: non-negative deltas,PASS,invalid_or_negative=0
+3,test_high_rate_icmp_03.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+3,test_high_rate_icmp_03.csv: finite features,PASS,all finite
+3,test_high_rate_icmp_03.csv: non-negative deltas,PASS,invalid_or_negative=0
+3,manifest has three completed traffic runs,PASS,rows=3
+3,collector logs contain no errors,PASS,"logs=3, error_logs=0"
+4,calibration_normal_04.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+4,calibration_normal_04.csv: finite features,PASS,all finite
+4,calibration_normal_04.csv: non-negative deltas,PASS,invalid_or_negative=0
+4,test_normal_04.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+4,test_normal_04.csv: finite features,PASS,all finite
+4,test_normal_04.csv: non-negative deltas,PASS,invalid_or_negative=0
+4,test_high_rate_icmp_04.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+4,test_high_rate_icmp_04.csv: finite features,PASS,all finite
+4,test_high_rate_icmp_04.csv: non-negative deltas,PASS,invalid_or_negative=0
+4,manifest has three completed traffic runs,PASS,rows=3
+4,collector logs contain no errors,PASS,"logs=3, error_logs=0"
+5,calibration_normal_05.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+5,calibration_normal_05.csv: finite features,PASS,all finite
+5,calibration_normal_05.csv: non-negative deltas,PASS,invalid_or_negative=0
+5,test_normal_05.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+5,test_normal_05.csv: finite features,PASS,all finite
+5,test_normal_05.csv: non-negative deltas,PASS,invalid_or_negative=0
+5,test_high_rate_icmp_05.csv: at least 20 ICMP rows,PASS,icmp_rows=112
+5,test_high_rate_icmp_05.csv: finite features,PASS,all finite
+5,test_high_rate_icmp_05.csv: non-negative deltas,PASS,invalid_or_negative=0
+5,manifest has three completed traffic runs,PASS,rows=3
+5,collector logs contain no errors,PASS,"logs=3, error_logs=0"
